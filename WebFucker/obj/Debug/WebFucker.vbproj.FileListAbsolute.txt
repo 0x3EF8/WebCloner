@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\bin\Debug\SiteFucker.exe.config
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\bin\Debug\SiteFucker.exe
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\bin\Debug\SiteFucker.pdb
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\bin\Debug\SiteFucker.xml
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\WebFucker.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\WebFucker.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker_WebCloner.aboutCoder.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker_WebCloner.Form1.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker_WebCloner.Resources.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\WebFucker.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\WebFucker.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\WebFucker.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker.exe
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker.xml
+C:\Users\Administrator\Desktop\Website-Cloner-master\Domaine SLAYER v0.1\obj\Debug\SiteFucker.pdb
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker_WebCloner.aboutCoder.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker_WebCloner.Form1.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker_WebCloner.Resources.resources
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\bin\Debug\WebFucker.exe.config
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\bin\Debug\WebFucker.exe
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\bin\Debug\WebFucker.pdb
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\bin\Debug\WebFucker.xml
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.vbproj.CopyComplete
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.exe
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.xml
+C:\Users\Administrator\Desktop\Website-Cloner-master\WebFucker\obj\Debug\WebFucker.pdb
